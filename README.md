@@ -15,7 +15,7 @@ $$$$$$$$\\$$$$$$$ |\$$$$$$$ |$$ |\$$$$$$$\       $$$$$$$$\\$$$$$$$ |\$$$$$$$\
 
 <div align="center">
 
-![Python 3.5](https://img.shields.io/badge/Python-3.6%2B-blue.svg)
+![Python 3.8](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![OS Linux](https://img.shields.io/badge/Supported%20OS-Linux-yellow.svg)
 ![Lets stalk](https://img.shields.io/badge/Stalkermode-Activated-red.svg)
 
@@ -50,7 +50,7 @@ These instructions will get you a copy of the project up and running on your loc
 - Only docker is required
 
 #### When you dont use docker
-- Python 3.6 or higher
+- Python 3.8 or higher
 - Pythons pip
 
 
